@@ -1,5 +1,3 @@
-# ASL-Translator
-
 # Live ASL translation
 *Ali Momennasab, Ramsey Foster, and Jo Lawson*
 
